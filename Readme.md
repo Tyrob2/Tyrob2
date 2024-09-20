@@ -14,7 +14,7 @@
   <!-- Seção do título principal -->
   <div id="title-section">
     <!-- Título principal do perfil, centralizado -->
-    <h1 align="center">Hi 👋, I'm Gabriel Luciano</h1>
+    <h1 align="center">Hi 👋, I'm Caio Butkousky</h1>
   </div>
 
   <!-- Seção do contador de visualizações -->
@@ -31,21 +31,21 @@
   <!-- Seção de aprendizado atual -->
   <div id="current-learning-section">
     <!-- Descreve o que você está aprendendo no momento -->
-    <p>- 🌱 I’m currently learning <strong>Data structures in C, Python, HTML/JavaScript/PHP/CSS for web design</strong></p>
+    <p>- 🌱 I’m currently learning <strong> Python, HTML/JavaScript/PHP/CSS for web design</strong></p>
   </div>
 
   <!-- Seção de projetos -->
   <div id="projects-section">
     <!-- Link para os projetos disponíveis -->
     <!-- Substitua o link pelo URL dos seus projetos -->
-    <p>- 👨‍💻 All of my projects are available at <a href="https://github.com/gabriel-luciano-santos-sampaio/Gabriel-projetos" target="_blank">https://github.com/gabriel-luciano-santos-sampaio/Gabriel-projetos</a></p>
+  <p>- 👨‍💻 All of my projects are available at <a href="coloca um link aqui " target="_blank">o mesmo link</a></p>
   </div>
 
   <!-- Seção de contato -->
   <div id="contact-section">
     <!-- Informações de contato -->
     <!-- Fornece seu email para contato -->
-    <p>- 📫 How to reach me <strong>gabrieluciano13070@gmail.com</strong></p>
+    <p>- 📫 How to reach me <strong>coiamalp@gmail.com</strong></p>
   </div>
 
   <!-- Seção de conexões -->
@@ -54,7 +54,7 @@
     <p align="left">
       <!-- Link para o LinkedIn -->
       <!-- Substitua a URL pelo seu perfil do LinkedIn -->
-      <a href="https://www.linkedin.com/in/gabriel-lucianoo-santos-sampaio-b71331317/" target="_blank">
+      <a href="link do linkedin" target="_blank">
         <img align="center" 
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
              alt="LinkedIn" 
@@ -62,7 +62,7 @@
       </a>
       <!-- Link para o Instagram -->
       <!-- Substitua a URL pelo seu perfil do Instagram -->
-      <a href="https://instagram.com/gabriel_sampaiols" target="_blank">
+      <a href="https://www.instagram.com/caio_butkousky/" target="_blank">
         <img align="center" 
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
              alt="Instagram" 
