@@ -1,10 +1,11 @@
 
 #  Hello, I'm Caio 👋 
-
+  <br>
   <p align="center">
       <!-- Substitua 'URL_DO_GIF' pela URL do seu GIF -->
       <img align="right" height="230" src="https://images.squarespace-cdn.com/content/v1/62a8153660de3f4c58730069/68decc30-1659-4b6d-8c3f-d7802e667644/high_tech_4x.gif"  />
     </p>
+   <br>
 
 ## 🚀 About me
 I'm a FullStack developer...
